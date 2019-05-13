@@ -11,3 +11,5 @@
 - RWD
 - CSS with LESS
 - JS
+
+Legacy repo: [https://github.com/chaczyk113/ProductPage] (https://github.com/chaczyk113/ProductPage "chaczyk113")
